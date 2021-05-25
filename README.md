@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/370368563.svg)](https://zenodo.org/badge/latestdoi/370368563)
+![DOI](https://zenodo.org/badge/370368563.svg)](https://zenodo.org/badge/latestdoi/370368563)
 
 # ***Stop detection algorithm with Whale GPS tracking***
 
