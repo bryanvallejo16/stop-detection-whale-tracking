@@ -9,3 +9,5 @@ The final map animation of the whale tracks and the stop's duration here: https:
 
 The dataset was published in Movebank. The details here: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study943824007
 
+<a href="https://www.buymeacoffee.com/bryan.vallejo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 2px !important;width: 6px !important;" ></a>
+
