@@ -2,9 +2,9 @@
 
 # ***Stop detection algorithm with blue whale trajectories***
 
-[Tutorial in Towards Data Science](https://towardsdatascience.com/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592)
+## [Tutorial in Towards Data Science](https://towardsdatascience.com/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592)
 
-[Online - Demo](https://bryanvallejo16.github.io/stop-detection-whale-tracking/)
+## [Online - Demo](https://bryanvallejo16.github.io/stop-detection-whale-tracking/)
 
 # ***DEMO***
 ![whale-demo](gif/whale_tracks2.gif)
